@@ -27,15 +27,18 @@ Este proyecto utiliza [UV](https://docs.astral.sh/uv/) para la gestión del ento
 
 ```bash
 pip install uv
+```
 
 2. Crear el entorno virtual:
 
 ```bash
 uv venv
+```
 
 3. Instalar las dependencias:
 
 ```bash
 uv pip install -r requirements.txt
+```
 
 ---
