@@ -46,6 +46,7 @@ stack-data = "0.6.3"
 tornado = "6.5.1"
 traitlets = "5.14.3"
 wcwidth = "0.2.13"
+imutils = "^0.5.4"
 
 [build-system]
 requires = ["poetry-core"]
