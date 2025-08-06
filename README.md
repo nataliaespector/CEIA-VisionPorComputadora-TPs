@@ -15,7 +15,22 @@ Repositorio para los 3 trabajos prácticos de la materia **Visión por Computado
 
 ## 📁 Estructura del proyecto
 
-Cada carpeta [`TP1`](./TP1), [`TP2`](./TP2) y [`TP3`](./TP3) contiene los archivos correspondientes a cada trabajo práctico.
+Cada carpeta [`TP1`](./TP1), [`TP2`](./TP2) y [`TP3`](./TP3) contiene los archivos correspondientes a cada trabajo práctico. A continuación se indican las notebooks relevantes para cada TP:
+
+### TP1:
+Parte 1 del TP:
+https://github.com/nataliaespector/CEIA-VisionPorComputadora-TPs/blob/main/TP1/1_White_Patch.ipynb
+
+Parte 2 del TP:
+https://github.com/nataliaespector/CEIA-VisionPorComputadora-TPs/blob/main/TP1/2_Hist_Escala_de_Grises.ipynb
+
+### TP2:
+TP completo:
+https://github.com/nataliaespector/CEIA-VisionPorComputadora-TPs/blob/main/TP2/Detector_Enfoque.ipynb
+
+### TP3:
+TP completo:
+https://github.com/nataliaespector/CEIA-VisionPorComputadora-TPs/blob/main/TP3/1_Template_matching_class.ipynb
 
 ---
 
